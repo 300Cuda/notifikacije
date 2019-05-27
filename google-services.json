@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209230978838",
+    "firebase_url": "https://notifikacije-595c7.firebaseio.com",
+    "project_id": "notifikacije-595c7",
+    "storage_bucket": "notifikacije-595c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209230978838:android:4e039849a31aea1b",
+        "android_client_info": {
+          "package_name": "com.phonegap.notifikacije"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209230978838-0fr38jstlbt6hie081d39ndedie4e24v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx4uoyFbyJWozf88bnJ-B_NHUaEzqUDnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209230978838-0fr38jstlbt6hie081d39ndedie4e24v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
